@@ -1,3 +1,4 @@
+#include <iostream>
 int main() {
 int day = 0;
 if (day == 15000 / 24) {
