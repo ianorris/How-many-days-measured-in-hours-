@@ -1,0 +1,4 @@
+int day = 0;
+if (day == 15000 / 24) {
+std::cout << "15,000 hours equals " << day;
+}
